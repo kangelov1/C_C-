@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\PartialClasses\PartialClass\bin\Debug\PartialClass.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\PartialClasses\PartialClass\bin\Debug\PartialClass.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\PartialClasses\PartialClass\bin\Debug\PartialClass.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\PartialClasses\PartialClass\obj\Debug\PartialClass.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\PartialClasses\PartialClass\obj\Debug\PartialClass.pdb

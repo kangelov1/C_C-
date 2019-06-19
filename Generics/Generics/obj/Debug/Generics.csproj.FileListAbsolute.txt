@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

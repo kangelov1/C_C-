@@ -1,0 +1,6 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\SingletonPattern\obj\Debug\SingletonPattern.pdb

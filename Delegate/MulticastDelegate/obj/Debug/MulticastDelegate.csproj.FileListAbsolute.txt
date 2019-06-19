@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\Delegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\Delegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\Delegate\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\Delegate\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\Delegate\MulticastDelegate\obj\Debug\MulticastDelegate.pdb

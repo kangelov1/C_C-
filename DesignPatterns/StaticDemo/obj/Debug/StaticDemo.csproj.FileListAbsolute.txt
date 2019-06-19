@@ -1,0 +1,5 @@
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\StaticDemo\bin\Debug\StaticDemo.exe.config
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\StaticDemo\bin\Debug\StaticDemo.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\StaticDemo\bin\Debug\StaticDemo.pdb
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\StaticDemo\obj\Debug\StaticDemo.exe
+C:\Users\Computer 1\Desktop\Programming\C_C#\DesignPatterns\StaticDemo\obj\Debug\StaticDemo.pdb
